@@ -1,0 +1,8 @@
+code_snippet,bug_type
+for i in range(10): print(i),No Bug
+x = 10 / 0,Division By Zero
+if x = 5: print('x is 5'),Syntax Error
+"list = [1, 2, 3]
+print(list[5])",Index Error
+"def func()
+    print('Hello')",Syntax Error
